@@ -4,6 +4,8 @@
 
 [Preview](https://todo-kohl-pi-23.vercel.app/landing)
 
+![TMS-process](https://github.com/molly1022/Ecommerce_MERN/blob/main/frontend/src/assets/images/front.png)
+
 ### Features
 - 📝 Create and manage task lists
 - ✅ Track task completion
