@@ -4,7 +4,7 @@
 
 [Preview](https://todo-kohl-pi-23.vercel.app/landing)
 
-![TMS-process](https://github.com/molly1022/Ecommerce_MERN/blob/main/frontend/src/assets/images/front.png)
+![TMS-process](https://github.com/molly1022/TMS_Next_Firebase/blob/main/public/Process.jpg)
 
 ### Features
 - 📝 Create and manage task lists
